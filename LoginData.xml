@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="Test all Suites" parallel="methods" thread-count="2">
-    <test verbose="2" preserve-order="true" name="LoginTest1">
-        <parameter name="user" value="johnsmith" />
-        <parameter name="pass" value="AnotherPassword!" />
-        <classes>
-            <class name="LoginTest_Exercise3" />
-        </classes>
-    </test>
-    <test verbose="2" preserve-order="true" name="LoginTest2">
-        <parameter name="user" value="tomsmith" />
-        <parameter name="pass" value="SuperSecretPassword!" />
-        <classes>
-            <class name="LoginTest_Exercise3" />
-        </classes>
-    </test>
-</suite>
+
